@@ -48,6 +48,9 @@ gem 'figaro', '1.0.0'
 # User paperclip for image uploads
 gem 'paperclip', '4.2.1'
 
+## Auto Prefixer
+gem 'autoprefixer-rails'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
